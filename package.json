@@ -1,0 +1,26 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "Travel Website built using modern workflow nodejs as development tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jyotsna-Singh/Travel-Site.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Jyotsna Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jyotsna-Singh/Travel-Site/issues"
+  },
+  "homepage": "https://github.com/Jyotsna-Singh/Travel-Site#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
