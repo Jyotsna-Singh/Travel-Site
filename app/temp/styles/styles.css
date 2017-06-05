@@ -1401,7 +1401,7 @@ a{
 
 .modal__close{
 		position: absolute;
-		top:15px;
+		top: 15px;
 		right: 15px;
 		font-size: 2rem;
 		-webkit-transform: scaleX(1.2);
